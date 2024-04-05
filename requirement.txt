@@ -1,0 +1,11 @@
+System registers new Users
+    Users needs to have : 
+        Firstname, LastName, Company Field, Job Title
+Users can add their email and phone number and associated location and label with the contact and it can be more than one or none
+
+search through contacts
+update existing contact
+delete contact
+merge contact
+
+    
